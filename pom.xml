@@ -42,7 +42,7 @@
         <dependency>
             <groupId>com.github.max-messenger</groupId>
             <artifactId>max-bot-api-client-java</artifactId>
-            <version>fe17787bf8</version>
+            <version>2c2a05e0bf</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
