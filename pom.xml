@@ -40,9 +40,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.github.max-messenger</groupId>
+            <groupId>com.github.KikiPadoru</groupId>
             <artifactId>max-bot-api-client-java</artifactId>
-            <version>2c2a05e0bf</version>
+            <version>37f429c66a</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
