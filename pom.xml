@@ -42,7 +42,7 @@
         <dependency>
             <groupId>com.github.KikiPadoru</groupId>
             <artifactId>max-bot-api-client-java</artifactId>
-            <version>7406170b69</version>
+            <version>a0e323e217</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
